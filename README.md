@@ -5,7 +5,7 @@ I'm learning **Cybersecurity**, **Digital Forensics**, and **Web Development** b
 ---
 
 #### 🔍 Featured Work
-* **[Case Study #01: Fake Cloudflare "ClickFix" Malware Prompt](https://github.com)** — Caught, decoded, and reported a clipboard-hijacking malware dropper.
+* **[Case Study #01: Fake Cloudflare "ClickFix" Malware Prompt](https://github.com.)** — Caught, decoded, and reported a clipboard-hijacking malware dropper.
 
 #### 🛠️ What I'm Working On
 * Setting up a safe Virtual Machine lab for malware analysis & digital forensics practice
